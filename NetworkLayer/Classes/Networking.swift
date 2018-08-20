@@ -5,7 +5,7 @@
 //  Created by Bhatti on 18/08/2018.
 //  Copyright © 2018 Bhatti. All rights reserved.
 //
-import Foundation
+//import Foundation
 public typealias DataResponseHandler<T> = (DataResponseModel<T>) -> Void
 public typealias ResultHandler<T> = (ResultType<T>) -> Void
 

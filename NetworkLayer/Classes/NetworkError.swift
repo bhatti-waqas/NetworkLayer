@@ -6,7 +6,7 @@
 //  Copyright © 2018 Bhatti. All rights reserved.
 //
 
-import Foundation
+//import Foundation
 
 public enum NetworkError: Error, CustomStringConvertible {
     /// Unknown or not supported error.
