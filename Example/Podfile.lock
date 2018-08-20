@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (4.6.0)
+  - NetworkLayer (0.1.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - NetworkLayer (from `../`)
+
+EXTERNAL SOURCES:
+  NetworkLayer:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  NetworkLayer: 10df885e1e72e2bb5721735388392c8871d7a024
+
+PODFILE CHECKSUM: ce1bbca328fee5084b78fb82c98f93f4272e6e85
+
+COCOAPODS: 1.4.0

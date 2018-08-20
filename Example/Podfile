@@ -2,7 +2,7 @@ use_frameworks!
 
 target 'NetworkLayer_Example' do
   pod 'NetworkLayer', :path => '../'
-
+#  pod 'Alamofire'
   target 'NetworkLayer_Tests' do
     inherit! :search_paths
 

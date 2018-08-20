@@ -22,7 +22,7 @@ pod 'NetworkLayer'
 
 ## Author
 
-developer.muzammal@gmail.com, waqas@dapperapps.com.au
+waqas.naseem.dev@gmail.com
 
 ## License
 
